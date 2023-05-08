@@ -12,10 +12,13 @@ jupyter
 imageio
 
 glog
+colored_glog
 icecream
 
 pandas
 pyrealsense2
 
+scikit-build
 pybind11
 gdown
+pyparsing==3.0.9
